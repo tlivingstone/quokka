@@ -1,5 +1,5 @@
-import Company from "../components/Company";
-import companies from "../data/Companies";
+import Company from "../../components/Company";
+import companies from "../../data/Companies";
 import { useState } from "react";
 import Head from "next/head";
 
