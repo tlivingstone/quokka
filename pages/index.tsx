@@ -18,17 +18,15 @@ export default function Index() {
         <div id = "top-section">
             <>
                 <h2>Quokka Ventures</h2>
-                <p>
+                <p className = "description">
                     {/* VC by day, hacker by night. I lead founder fellowship programs at 
                     <a href = "https://www.somacap.com/"><span id = "bolder"> <span className="underline">Soma Capital</span></span></a>and
                     <a href = "https://www.envisionaccelerator.com/"><span id = "bolder"> <span className="underline">Envision Accelerator</span></span>,</a> 
                     document my learnings through writing, design &amp; build out 
                     product ideas, and grow communities in SF &amp; beyond. */}
 
-                    Quokka is a venture syndicate dedicated to democratizing access to 
-                    Silicon Valley startups and relentlessly supporting our founders. We run our 
-                    syndicate on <a href="https://www.angellist.com/" className="underline">Angellist</a>where you can join us to recieve updates for each of the 
-                    new investments we launch. 
+                    We back founders who set out to do the impossible. Your can join our <a href="https://www.angellist.com/" className="underline">Angellist</a> syndicate to stay up to date
+                    on deal opportunities.
                 </p>
 
                 <p className="social-links">

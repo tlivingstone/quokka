@@ -163,3 +163,14 @@ hr {
 .social-links {
     margin-top: 20px;
 }
+
+.description a {
+    margin-right: 0px;
+}
+
+.description a:hover {
+    font-size: 16px;
+    color: #959595;
+    text-decoration: none;
+    font-weight: 300;
+}
